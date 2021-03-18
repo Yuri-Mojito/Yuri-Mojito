@@ -9,7 +9,7 @@
 - first Thing
 
 - Pull request title.
-  - Example: `[Tailwind CSS] -> [CSS Frameworks]`
+  - Example: `frameworks son awesome`
 
 - Provide a link to submitted resource in pull request comment .
   - Example: `Link: https://google.com/`
