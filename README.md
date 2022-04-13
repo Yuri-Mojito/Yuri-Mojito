@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yuri-Mojito
 - 👀 I’m interested in learning more things
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on IA
-- 📫 How to reach me with some beauty song and flowers
+- 🌱 I’m currently learning Python and cmd
+- 💞️ I’m looking to learn IA
+- 📫 How to reach me with some beauty song and flowers and be a woman im lesb
 
 # Content of Repository
 
